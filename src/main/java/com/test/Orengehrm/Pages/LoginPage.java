@@ -29,6 +29,7 @@ public class LoginPage {
             this.password.sendKeys(password);
             this.loginButton.click();
 
+
         }
     }
     
